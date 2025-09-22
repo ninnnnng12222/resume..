@@ -113,7 +113,7 @@
     
     <!-- Header with ID Image -->
     <div class="header">
-      <img src="C:\Users\Admin\Desktop\web\5b6617cd-d15c-4c32-b0dd-826dd9707819.jpg" alt="ID Photo">
+      <img src="5b6617cd-d15c-4c32-b0dd-826dd9707819.jpg" alt="ID Photo">
       <h1>Dustin B. Belonio</h1>
       <div class="contact-info">
         <p>9B Blanco Compound Santulan Malabon City</p>
